@@ -48,11 +48,13 @@ I love working with web technologies, backend APIs, AI tools, and problem-solvin
 
 ---
 
-## 📊 GitHub Stats
+## My Stats
 
-![Divyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshuprakas-h&show_icons=true&theme=tokyonight)
+<a href="https://codetime.dev">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuprakas-h&layout=compact&theme=tokyonight)
+  <img src="https://codetime.dev/badge/YOUR_CODETIME_USERNAME" alt="CodeTime Badge" />
+
+</a>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshuprakas-h&theme=tokyonight)
 
