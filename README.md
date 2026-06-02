@@ -52,9 +52,9 @@ I love working with web technologies, backend APIs, AI tools, and problem-solvin
 
 ![Divyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshuprakas-h&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshuprakas-h&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuprakas-h&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshuprakas-h&theme=tokyonight)
 
 ---
 
