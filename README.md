@@ -70,6 +70,12 @@ I love working with web technologies, backend APIs, AI tools, and problem-solvin
 
 [![Hackatime](https://img.shields.io/badge/Hackatime-View%20Activity-blueviolet?style=for-the-badge)](https://hackatime.hackclub.com/@Vani-Bansal)
 
+<a href="https://hackatime.hackclub.com/@Vani-Bansal">
+
+  <img src="https://hackatime.hackclub.com/api/activity/chart/Vani-Bansal" alt="Hackatime Activity" />
+
+</a>
+
 ---
 
 ---
