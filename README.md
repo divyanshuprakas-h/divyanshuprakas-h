@@ -63,17 +63,14 @@ I love working with web technologies, backend APIs, AI tools, and problem-solvin
 ![Divyanshu's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyanshuprakas-h&theme=tokyo-night)
 
 ---
----
 
 ## Hackatime
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=Vani-Bansal&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime%20Stats&layout=compact&cache_seconds=0&langs_count=8)
 
-<a href="https://hackatime.hackclub.com/@Vani-Bansal">
+[![Hackatime Activity](https://img.shields.io/badge/Hackatime-View%20Activity-7B3FE4?style=for-the-badge)](https://hackatime.hackclub.com/@Vani-Bansal)
 
-  <img src="https://hackatime.hackclub.com/api/activity/chart/Vani-Bansal" alt="Hackatime Activity" />
-
-</a>
+---
 
 ---
 
