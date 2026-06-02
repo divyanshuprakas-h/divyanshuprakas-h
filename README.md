@@ -48,28 +48,27 @@ I love working with web technologies, backend APIs, AI tools, and problem-solvin
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Divyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshuprakash914&show_icons=true&theme=tokyonight)
+![Divyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshuprakas-h&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshuprakash914&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshuprakas-h&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuprakash914&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuprakas-h&layout=compact&theme=tokyonight)
 
 ---
 
 ## Contribution Graph
 
-![Divyanshu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyanshuprakash914&theme=tokyo-night)
-
+![Divyanshu's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyanshuprakas-h&theme=tokyo-night)
 ---
 ---
 
 ## Hackatime
 
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=divyanshuprakash914&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime%20Stats&layout=compact&cache_seconds=0&langs_count=8)
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=divyanshuprakas-h&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime%20Stats&layout=compact&cache_seconds=0&langs_count=8)
 
-![Hackatime Activity](https://hackatime.hackclub.com/api/activity/chart/divyanshuprakash914)
+![Hackatime Activity](https://hackatime.hackclub.com/api/activity/chart/divyanshuprakas-h)
 
 ---
 
