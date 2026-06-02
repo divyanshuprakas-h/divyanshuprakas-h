@@ -79,7 +79,7 @@ I love working with web technologies, backend APIs, AI tools, and problem-solvin
 
 ## Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-divyanshuprakas-h-181717?style=for-the-badge&logo=github)](https://github.com/divyanshuprakas-h)
+[![GitHub](https://img.shields.io/badge/GitHub-divyanshuprakas--h-181717?style=for-the-badge&logo=github)](https://github.com/divyanshuprakas-h)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyanshu%20Prakash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-prakash-023511388/)
 
