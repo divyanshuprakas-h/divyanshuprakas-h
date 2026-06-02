@@ -68,12 +68,11 @@ I love working with web technologies, backend APIs, AI tools, and problem-solvin
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=Vani-Bansal&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime%20Stats&layout=compact&cache_seconds=0&langs_count=8)
 
-[![Hackatime](https://img.shields.io/badge/Hackatime-View%20Activity-blueviolet?style=for-the-badge)](https://hackatime.hackclub.com/@Vani-Bansal)
-
-<a href="https://hackatime.hackclub.com/@Vani-Bansal">
-
-  <img src="https://hackatime.hackclub.com/api/activity/chart/Vani-Bansal" alt="Hackatime Activity" />
-
+<a href="https://heatmap.shymike.dev?id=30688&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=30688&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=30688&theme=light">
+    </picture>
 </a>
 
 ---
