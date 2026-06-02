@@ -48,9 +48,6 @@ I love working with web technologies, backend APIs, AI tools, and problem-solvin
 
 ---
 
-
----
-
 ## GitHub Stats
 
 ![Divyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshuprakash914&show_icons=true&theme=tokyonight)
@@ -66,14 +63,15 @@ I love working with web technologies, backend APIs, AI tools, and problem-solvin
 ![Divyanshu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyanshuprakash914&theme=tokyo-night)
 
 ---
+---
 
-## Currently Learning
+## Hackatime
 
-- Data Structures and Algorithms
-- React and Next.js
-- FastAPI backend development
-- Machine Learning basics
-- Full-stack project deployment
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=divyanshuprakash914&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime%20Stats&layout=compact&cache_seconds=0&langs_count=8)
+
+![Hackatime Activity](https://hackatime.hackclub.com/api/activity/chart/divyanshuprakash914)
+
+---
 
 ---
 
