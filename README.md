@@ -69,19 +69,11 @@ I love working with web technologies, backend APIs, AI tools, and problem-solvin
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=Vani-Bansal&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime%20Stats&layout=compact&cache_seconds=0&langs_count=8)
 
-![Hackatime Activity](https://hackatime.hackclub.com/api/activity/chart/Vani-Bansal)
+<a href="https://hackatime.hackclub.com/@Vani-Bansal">
 
----
+  <img src="https://hackatime.hackclub.com/api/activity/chart/Vani-Bansal" alt="Hackatime Activity" />
 
----
-
-## Goals
-
-- Build useful real-world projects.
-- Improve DSA and problem-solving skills.
-- Contribute more to open source.
-- Become better at full-stack development.
-- Prepare for competitive programming and mathematics competitions.
+</a>
 
 ---
 
