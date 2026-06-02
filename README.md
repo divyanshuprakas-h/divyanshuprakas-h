@@ -66,7 +66,7 @@ I love working with web technologies, backend APIs, AI tools, and problem-solvin
 
 ## Hackatime
 
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=divyanshuprakas-h&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime%20Stats&layout=compact&cache_seconds=0&langs_count=8)
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=Vani-Bansal&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime%20Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 ![Hackatime Activity](https://hackatime.hackclub.com/api/activity/chart/divyanshuprakas-h)
 
