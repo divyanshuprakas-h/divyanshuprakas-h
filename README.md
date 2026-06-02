@@ -48,35 +48,6 @@ I love working with web technologies, backend APIs, AI tools, and problem-solvin
 
 ---
 
-## Projects
-
-### Attendance Management System
-Built a student-focused attendance management and bunk planner system.
-
-- Helps students check whether skipping a class or full day is safe.
-- Uses attendance data to analyze risk and suggest better planning.
-- Focused on making attendance tracking simple and useful for daily college life.
-
-### Civic Check
-Built an AI-based news legitimacy detector during Mumbai Hacks.
-
-- Classifies news as real or fake using machine learning.
-- Built with FastAPI backend and React frontend.
-- Secured 9th rank in the Misinformation track.
-
-### BugBash DSA Tutor
-Built a beginner-friendly DSA learning platform.
-
-- Helps students practice coding with clear explanations.
-- Focuses on step-by-step learning for Data Structures and Algorithms.
-- Designed to make DSA less confusing for beginners.
-
-### Project Sharing Platform
-Built a full-stack project sharing platform for college students.
-
-- Used Next.js and FastAPI.
-- Used by 100+ students in college.
-- Allows students to upload, manage, and showcase their projects.
 
 ---
 
