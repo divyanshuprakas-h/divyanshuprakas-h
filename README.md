@@ -50,11 +50,7 @@ I love working with web technologies, backend APIs, AI tools, and problem-solvin
 
 ## My Stats
 
-<a href="https://codetime.dev">
-
-  <img src="https://codetime.dev/badge/YOUR_CODETIME_USERNAME" alt="CodeTime Badge" />
-
-</a>
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37047)](https://codetime.dev)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshuprakas-h&theme=tokyonight)
 
